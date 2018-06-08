@@ -1,6 +1,6 @@
 {
   "task_id": "9ce8862e-3aec-4926-88ae-6c416eb5d472",
-  "submit_url": "/tasks/9ce8862e-3aec-4926-88ae-6c416eb5d472/save_response",
+  "submit_url": "https://httpbin.org/post",
   "input_payload": {
     "fields": [
       {
