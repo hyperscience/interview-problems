@@ -424,9 +424,7 @@
         "data_type": "Checkbox"
       }
     ],
-    "page_number": 5,
     "submission_id": 232,
-    "enable_incorrect_template_match": true,
     "template_name": "Withdrawal Options",
     "image": "https://raw.githubusercontent.com/hyperscience/interview-problems/master/taskRequest_1.png",
     "form_id": 438
