@@ -4,13 +4,13 @@
     "/home/kyle/Music",
     "/home/kyle/Pictures",
     "/home/kyle/Pictures/2018",
-	"/usr",
-	"/opt",
-	"/etc/fonts",
-	"/home/john/Videos",
-	"/usr/bin",
-	"/opt/usr/bin",
-	"/home/kyle/Pictures/2018",
-	"/etc/fonts/fonts"
+    "/usr",
+    "/opt",
+    "/etc/fonts",
+    "/home/john/Videos",
+    "/usr/bin",
+    "/opt/usr/bin",
+    "/home/kyle/Pictures/2018",
+    "/etc/fonts/fonts"
   ]
 }
