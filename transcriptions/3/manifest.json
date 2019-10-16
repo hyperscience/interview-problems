@@ -1,0 +1,10 @@
+{
+	"fields": [
+		"Name",
+		"Generic Text",
+		"SSN/EIN/TIN",
+		"Date",
+		"Address",
+		"Numeric"
+	]
+}

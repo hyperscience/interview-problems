@@ -1,0 +1,10 @@
+{
+	"fields": [
+		"Address",
+		"Currency Amount",
+		"Account Number",
+		"Date",
+		"Number",
+		"Phone Number"
+	]
+}
