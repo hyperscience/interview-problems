@@ -1,10 +1,28 @@
 {
-	"fields": [
-		"Address",
-		"Currency Amount",
-		"Account Number",
-		"Date",
-		"Number",
-		"Phone Number"
-	]
+    "fields": [
+        {
+            "name": "Address",
+            "uuid": "beb37809-1387-4bd1-8956-b8d3c3bd38c4"
+        },
+        {
+            "name": "Currency Amount",
+            "uuid": "a3461b83-ce7d-4295-9c67-d03b1d128e43"
+        },
+        {
+            "name": "Account Number",
+            "uuid": "ccf0bc2e-143f-40a0-92cf-60223a9e5b6f"
+        },
+        {
+            "name": "Date",
+            "uuid": "2720e462-dca4-45ee-8416-347cf5d906a2"
+        },
+        {
+            "name": "Number",
+            "uuid": "045708ee-7eaa-44d7-9b7d-112732e73ac0"
+        },
+        {
+            "name": "Phone Number",
+            "uuid": "becf9a78-4a68-4026-a952-208cc20502e9"
+        }
+    ]
 }
