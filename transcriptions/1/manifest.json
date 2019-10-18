@@ -1,9 +1,24 @@
 {
-	"fields": [
-		"Check - Longform Amount",
-		"Currency - X,XXX.XX",
-		"Date",
-		"Name",
-		"MICR Font"
-	]
+    "fields": [
+        {
+            "name": "Check - Longform Amount",
+            "uuid": "5e8e9168-682b-4b67-91a1-f331704217ee"
+        },
+        {
+            "name": "Currency - X,XXX.XX",
+            "uuid": "6418841d-d4c7-4257-a34a-ffde228cf09a"
+        },
+        {
+            "name": "Date",
+            "uuid": "2720e462-dca4-45ee-8416-347cf5d906a2"
+        },
+        {
+            "name": "Name",
+            "uuid": "bd5cd9c4-31ed-402f-ba44-06b5691b3cf0"
+        },
+        {
+            "name": "MICR Font",
+            "uuid": "17454d9d-d374-4d01-88fa-0751fd2c71ef"
+        }
+    ]
 }
