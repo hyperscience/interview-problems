@@ -1,0 +1,52 @@
+{
+    "datatypes": [
+        {
+            "name": "Generic Text",
+            "uuid": "79cbf020-8ec1-434c-a0f9-87bd2c3f554e"
+        },
+        {
+            "name": "Name",
+            "uuid": "bd5cd9c4-31ed-402f-ba44-06b5691b3cf0"
+        },
+        {
+            "name": "Date",
+            "uuid": "2720e462-dca4-45ee-8416-347cf5d906a2"
+        },
+        {
+            "name": "Number",
+            "uuid": "045708ee-7eaa-44d7-9b7d-112732e73ac0"
+        },
+        {
+            "name": "Currency - X,XXX.XX",
+            "uuid": "6418841d-d4c7-4257-a34a-ffde228cf09a"
+        },
+        {
+            "name": "Check - Longform Amount",
+            "uuid": "5e8e9168-682b-4b67-91a1-f331704217ee"
+        },
+        {
+            "name": "MICR Font",
+            "uuid": "17454d9d-d374-4d01-88fa-0751fd2c71ef"
+        },
+        {
+            "name": "Address",
+            "uuid": "beb37809-1387-4bd1-8956-b8d3c3bd38c4"
+        },
+        {
+            "name": "Currency Amount",
+            "uuid": "a3461b83-ce7d-4295-9c67-d03b1d128e43"
+        },
+        {
+            "name": "Account Number",
+            "uuid": "ccf0bc2e-143f-40a0-92cf-60223a9e5b6f"
+        },
+        {
+            "name": "Phone Number",
+            "uuid": "becf9a78-4a68-4026-a952-208cc20502e9"
+        },
+        {
+            "name": "SSN/EIN/TIN",
+            "uuid": "709b7a28-e736-40d8-8112-b83d171b98df"
+        }
+    ]
+}
